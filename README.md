@@ -1,6 +1,6 @@
 # 19th Chapter - Devi Rachma Anjani
 
-Website ulang tahun yang dibuat dengan penuh cinta ❤️
+
 
 ## 🚀 Cara Deploy ke Vercel (GRATIS)
 
